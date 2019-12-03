@@ -4,6 +4,39 @@
 
 .nav-spacing {
     margin-left: 10px; 
-    text-decoration: none; 
+    text-decoration: none;
     color: #000000;
+}
+
+.td-padding {
+    padding: 10px;
+}
+
+.header-spacing {
+    text-align: center; 
+    margin: 0 0 80px;
+}
+
+.div-bookreport {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+}
+
+.cover-spacing {
+    float: left; 
+    margin: 0 40px;
+}
+
+.blockquote {
+    font-style: italic; 
+    font-size: 20px;
+}
+
+.span-style {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #cccccc;
 }
